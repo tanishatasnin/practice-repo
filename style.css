@@ -1,13 +1,35 @@
 body{
      
-text-align: center;
+
                font-family: 'Abril Fatface', cursive;  
                      
 }
+section{ display: flex;
+     margin-bottom: 100px;
+}
+.half-width{
+width: 50%;
+padding-left: 10%;
+}
+.half-width img{
+width:800px;
 
+}
 h1{ 
      font-size: 50px;          
                
                color:brown}1
 
-.tom-jerry{ image width: 40px 60px;}
+
+
+}
+h3{
+     color: coral;}
+
+}
+.link-button{
+     text-decoration: none;
+     background-image: -moz-linear-gradient(red,orange);
+     color: black;
+     width: 2px 4px;
+}
